@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *Oluwaseyifumi*
+- 👋 Hi, I’m **Oluwaseyifunmi**
 - 👀 I’m interested in Business Intelligence and Data Analysis
 - 🌱 I’m currently learning Microsoft Excel, SQL, Power BI, Python
 - 💞️ I’m looking to collaborate on Data Analysis projects 
